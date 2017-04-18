@@ -112,9 +112,3 @@ Class | Method | HTTP request | Description
  - [Model.ListOrder](docs/ListOrder.md)
  - [Model.SetResponse](docs/SetResponse.md)
  - [Model.WhereItem](docs/WhereItem.md)
-
-
-<a name="documentation-for-authorization"></a>
-## Documentation for Authorization
-
-All endpoints do not require authorization.
