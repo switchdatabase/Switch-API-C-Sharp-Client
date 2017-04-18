@@ -112,3 +112,7 @@ Class | Method | HTTP request | Description
  - [Model.ListOrder](docs/ListOrder.md)
  - [Model.SetResponse](docs/SetResponse.md)
  - [Model.WhereItem](docs/WhereItem.md)
+ 
+ ## Authors
+
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
